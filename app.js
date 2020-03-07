@@ -44,7 +44,7 @@ function draw(playerSelection, computerSelection) {
     const playerSelection_div = document.getElementById(playerSelection);
     result_p.innerHTML = `${playerSelection}${userWord} and ${computerSelection}${compWord}. It's a draw.`.fontsize(6);
     playerSelection_div.classList.add('grey-animation');
-    setTimeout(() => playerSelection_div.classList.remove('grey-animation'), 1200);
+    setTimeout(() => playerSelection_div.classList.remove('grey-animation'), 1000);
 }
 
 function game(playerSelection) {
