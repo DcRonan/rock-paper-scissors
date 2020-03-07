@@ -82,10 +82,6 @@ span {
     transition: all 0.5s ease;
 }
 
-#Paper {
-    padding: 10px 15px 10px 15px;
-}
-
 .option:hover {
      background: #DEDCDC;
      cursor: pointer;
