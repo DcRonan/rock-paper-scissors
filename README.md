@@ -10,6 +10,7 @@ Additional description about the project and its features..
 
 - HTML
 - CSS
+- JAVASCRIPT
 
 ## Live Demo
 
