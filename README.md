@@ -1,5 +1,42 @@
-<h2>Rock Paper Scissors Game</h2>
+# Rock Paper Scissors Game
 
-<img src="images/screenshot.png">
-You can go on the game here: https://dcronan.github.io/rock-paper-scissors/ <br>
-I created this from studying The Odin Project.
+> I have created a rock-paper-scissors game while studying the The Odin Project pre-course work.
+
+![screenshot](images/screenshot.png)
+
+Additional description about the project and its features..
+
+## Built With
+
+- HTML
+- CSS
+
+## Live Demo
+
+[Live Demo Link](https://dcronan.github.io/rock-paper-scissors/)
+
+
+## Authors
+
+👤 **Daniel Ronan**
+
+- Github: [@DcRonan](https://github.com/DcRonan)
+- Linkedin: [Daniel Ronan](https://www.linkedin.com/in/danronan10/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](enter issues url here).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- The Odin Project
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
