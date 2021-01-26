@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-> I have created a rock-paper-scissors game while studying the The Odin Project pre-course work.
+> I have created a rock-paper-scissors game while studying The Odin Project pre-course work.
 
 ![screenshot](images/screenshot.png)
 
@@ -32,7 +32,7 @@ Feel free to check the [issues page](enter issues url here).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## Acknowledgements
 
 - The Odin Project
 
